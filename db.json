@@ -84,5 +84,27 @@
       "Edad": 36,
       "tipoIdentificacion": "1"
     }
+  ],"info2": [
+    {
+      "nombreUsuario": "SANDRA ESPERANZA HERNANDEZ GUARIN",
+      "estadoContrato": "LIQUIDADO",
+      "estadoUsuario": "ACTIVO",
+      "fechaVigenciaInicio": "20001001",
+      "fechaVigenciaFin": "20220930",
+      "codigoCia": "10",
+      "codigoPlan": "10",
+      "motivo": "USUARIO VIGENTE",
+      "numeroContrato": "1010223619",
+      "numFamilia": "3",
+      "numUsuario": "1",
+      "fechaVigenciaInicioUsuario": "20001001",
+      "fechaVigenciaFinUsuario": "20220930",
+      "nombrePlan": "COLSANITAS INTEGRAL",
+      "estadoHabilitado": "HABILITADO",
+      "userType": "BENEFICIARIO",
+      "marcaMedica": "ATENCION PREFERENCIAL ONCOLOGICO - MP USUARIO TUTELA: CUENTA   CON AVAL PARA GESTION DE SUS SOLICITUDES EN CUALQUIER OFICINA - EPS ONCOLOGIA - EPS ",
+      "Edad": 43,
+      "tipoIdentificacion": "1"
+    }
   ]
 }
